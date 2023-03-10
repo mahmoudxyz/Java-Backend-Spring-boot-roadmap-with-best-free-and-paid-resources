@@ -56,7 +56,7 @@ By breaking down the Java development journey into smaller, more manageable part
 
 ### Paid java resources  
 - [Java for Beginners](https://hyperskill.org/tracks/8?category=2)
-- [Java Developer](#https://hyperskill.org/tracks/17?category=2)
+- [Java Developer](https://hyperskill.org/tracks/17?category=2)
 
 I don't recommend Udemy and Pluralsight videos, the YouTube is much better.
 I also recommend you no watching Indian videos. I wasted a lot of time trying to understand their English rather than understand the concepts, with full respect for them.
