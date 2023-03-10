@@ -23,6 +23,7 @@ By breaking down the Java development journey into smaller, more manageable part
 - [Basic Testing](#q4-2023)
 
 ### [Spring](https://github.com/mahmoudxyz/Java-Backend-Spring-boot-roadmap-with-best-free-and-paid-resources/blob/master/Spring/Spring%20core/springCore.md)
+- Spring ecosystem
 - Inversion of Control (IoC)
 - Dependency Injection (DI)
 - Spring Beans annotations
