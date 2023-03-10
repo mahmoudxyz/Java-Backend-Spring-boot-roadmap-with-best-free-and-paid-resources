@@ -17,32 +17,32 @@ By breaking down the Java development journey into smaller, more manageable part
 ## Roadmap index
 
 ### Java 
-- [Core Java](#q1-2023)
-- [OOP](#q2-2023)
-- [Functional programming](#q3-2023)
+- [Core Java](https://github.com/mahmoudxyz/Java-Backend-Spring-boot-roadmap-with-best-free-and-paid-resources/blob/master/Java/CoreJava.md)
+- [OOP](https://github.com/mahmoudxyz/Java-Backend-Spring-boot-roadmap-with-best-free-and-paid-resources/blob/master/Java/oop.md)
+- [Functional programming]()
 - [Basic Testing](#q4-2023)
 
-### Spring 
-- [Inversion of Control (IoC)](#q1-2023)
-- [Dependency Injection (DI)](#q2-2023)
-- [Spring Beans annotations](#q1-2023)
-- [Spring Beans](#q3-2023)
-- [Spring Context](#q4-2023)
+### [Spring](https://github.com/mahmoudxyz/Java-Backend-Spring-boot-roadmap-with-best-free-and-paid-resources/blob/master/Spring/Spring%20core/springCore.md)
+- Inversion of Control (IoC)
+- Dependency Injection (DI)
+- Spring Beans annotations
+- Spring Beans
+- Spring Context
 
-### Spring Boot 
-- [Auto-configuration](#q1-2023)
-- [Embedded servers:](#q3-2023)
-- [Actuator](#q4-2023)
+### [Spring Boot](https://github.com/mahmoudxyz/Java-Backend-Spring-boot-roadmap-with-best-free-and-paid-resources/blob/master/Spring/Spring%20Boot/springBoot.md)
+- Auto-configuration
+- Embedded servers
+- Actuator
 
-### RESTful APIs with Spring
-- [Basics of RESTful architecture](#q1-2023)
-- [HTTP status codes](#q1-2023)
-- [Spring Boot Starters](#q2-2023)
-- [Embedded servers:](#q3-2023)
-- [Spring RESTful annotations](#q1-2023)
-- [Actuator](#q4-2023)
-- [Spring security](#q4-2023)
-- [Spring Data](#q4-2023)
+### [RESTful APIs with Spring](https://github.com/mahmoudxyz/Java-Backend-Spring-boot-roadmap-with-best-free-and-paid-resources/blob/master/Spring/RESTful%20APIs%20with%20Spring/RestApisWithSpring.md)
+- Basics of RESTful architecture
+- HTTP status codes
+- Spring Boot Starters
+- Embedded servers
+- Spring RESTful annotations
+- Actuator
+- Spring security
+- Spring Data
 
 
 ### Free java resources  
