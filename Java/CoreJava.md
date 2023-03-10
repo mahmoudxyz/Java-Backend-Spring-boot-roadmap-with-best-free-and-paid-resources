@@ -24,11 +24,11 @@ Java basics cover the fundamental concepts and syntax of the Java programming la
 | **Must to learn**   | Operators and Expressions             |
 | **Must to learn**   | Control Statements                    |
 | **Must to learn**   | Arrays and Loops                      |
-| **Recommended**     | Classes and Objects                    |
-| **Recommended**     | Constructors and Methods               |
-| **Recommended**     | Interfaces and Inheritance             |
-| **Optional**        | Exception Handling and Debugging       |
-| **Optional**        | Lambda Expressions and Functional Programming |
+| **Must to learn**     | Classes and Objects                    |
+| **Must to learn**     | Constructors and Methods               |
+| **Must to learn**     | Interfaces and Inheritance             |
+| **Recommended**        | Exception Handling and Debugging       |
+| **Recommended**        | Lambda Expressions and Functional Programming |
 
 
 ### Control Statements
@@ -39,8 +39,8 @@ Control statements allow you to control the flow of a program. This includes con
 | ------------------ | ------------------------------------ | 
 | **Must to learn**   | If/Else and Switch/Case               |
 | **Must to learn**   | For, While, and Do-While Loops         |
-| **Optional**        | Break and Continue Statements         |
-| **Optional**        | Enhanced for Loop                      |
+| **Must to learn**        | Break and Continue Statements         |
+| **Recommended**        | Enhanced for Loop                      |
 
 
 ### Object-Oriented Concepts
