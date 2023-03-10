@@ -92,3 +92,29 @@ I also recommend you no watching Indian videos. I wasted a lot of time trying to
 | [Spring Security for Java Backend Developers](https://hyperskill.org/tracks/38?category=2) | Paid |
 | [REST with Spring Tutorial](https://www.baeldung.com/rest-with-spring-series) | Free articles |
 | [RESTful Web Services with Spring Framework - A quick start](https://www.udemy.com/course/restful-web-services-with-spring-framework-a-quick-start/) | Free Course |
+
+
+
+## Contributing
+
+Contributions are always welcome!
+
+## 🚀 About Me
+I'm a full stack developer...
+I enjoy programming and problem-solving since childhood
+and has pursued computer science online despite studying
+clinical pharmacy. I have learned algorithms and data
+structures, discrete math, calculus, linear algebra, and objectoriented programming using Java and Kotlin.
+
+Currently I am focusing on Full-stack development using
+spring and Java for backend and React for the front-end. 
+
+I am currently Working at JetBrains academy(HyperSkill
+now) I write topics about Kotlin.
+
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud4dev)
+
