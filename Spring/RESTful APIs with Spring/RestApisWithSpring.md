@@ -10,3 +10,15 @@
 | **Recommended**    | Testing                                             |<details><summary>Skills</summary><ul><li>Understand the importance of testing in RESTful API development</li><li>Learn how to use JUnit and Mockito for testing Spring RESTful APIs</li></ul></details>|
 | **Recommended**    | Documenting your RESTful APIs                       |<details><summary>Skills</summary><ul><li>Learn how to document your RESTful APIs using tools like Swagger</li></ul></details>|
 | **Optional**       | Optimizing performance                              |<details><summary>Skills</summary><ul><li>Learn how to optimize the performance of your RESTful APIs</li></ul></details>|
+
+
+
+### Spring security 
+
+| Topic                         | Subtopics                                                                                                                                                                                                                                                         |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Authentication and Authorization | - Understanding the difference between authentication and authorization<br>- Authentication mechanisms such as OAuth2, JWT, Basic Auth, and Token-based authentication<br>- Authorization methods such as Role-Based Access Control (RBAC), Attribute-Based Access Control (ABAC), and Role-Based Access Control (RBAC) |
+| Encryption and Hashing        | - Understanding the difference between encryption and hashing<br>- Encryption mechanisms such as symmetric and asymmetric encryption, and TLS/SSL<br>- Hashing algorithms such as SHA-256 and bcrypt                                                                           |
+| Input Validation and Sanitization | - Input validation and sanitization techniques<br>- Common input validation and sanitization vulnerabilities such as SQL injection, Cross-site scripting (XSS), and Command injection                                                                                                   |
+| API Security Best Practices   | - OWASP Top 10 security risks for APIs<br>- Secure coding practices such as input validation, output encoding, and error handling<br>- Using secure communication protocols such as HTTPS and SSL/TLS<br>- Securing data at rest and in transit<br>- Implementing rate limiting, throttling, and logging mechanisms |
+| Security Testing              | - Types of security testing such as penetration testing, vulnerability scanning, and code review<br>- Testing tools such as OWASP ZAP, Nmap, and Burp Suite                                                                                                        |
